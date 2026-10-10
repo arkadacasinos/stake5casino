@@ -11,6 +11,7 @@ export default function RootLayout({
   return (
     <html lang="ru" className="q7d2-root">
       <head>
+        <meta name="yandex-verification" content="1ed4f72ccc651334" />
         <title>Stake casino зеркало — стейк казино официальный сайт: вход и регистрация</title>
         <meta
           name="description"
